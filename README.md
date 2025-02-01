@@ -8,6 +8,9 @@
   <br>![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)	![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minddong)](https://solved.ac/minddong)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1ngD0ng&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1ngD0ng&layout=compact)
 
  </div>
